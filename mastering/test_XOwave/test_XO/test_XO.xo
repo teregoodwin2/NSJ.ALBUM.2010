@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XO_Wave_Session>
+  <Header>
+    <MajorVersion>0</MajorVersion>
+    <MinorVersion>1</MinorVersion>
+    <Start>0</Start>
+    <End>78995246</End>
+    <OutputChannels>2</OutputChannels>
+    <SessionDirectory>
+      <File Name="test_XO">
+        <AbsolutePath>/Users/Tere/ALBUM____/mastering/test_XOwave/test_XO</AbsolutePath>
+      </File>
+    </SessionDirectory>
+    <ThisFilesOriginalLocation>
+      <File Name="test_XO.xo">
+        <RelativePath>test_XO.xo</RelativePath>
+        <AbsolutePath>/Users/Tere/ALBUM____/mastering/test_XOwave/test_XO/test_XO.xo</AbsolutePath>
+      </File>
+    </ThisFilesOriginalLocation>
+    <MemoryLocations>
+      <CDTracks>
+        <Track Index="1" PreGap="0">
+          <ISRC>US-000-11-00000</ISRC>
+          <Properties />
+          0
+        </Track>
+        <Track Index="2" PreGap="88200">
+          <ISRC>US-000-11-00000</ISRC>
+          <Properties>
+            <Pair key="Artist" value="Newtown Street Justice" />
+          </Properties>
+          10914456
+        </Track>
+        <Track Index="3" PreGap="88200">
+          <ISRC>US-000-11-00000</ISRC>
+          <Properties />
+          29162448
+        </Track>
+        <Track Index="4" PreGap="88200">
+          <ISRC>US-000-11-00000</ISRC>
+          <Properties />
+          33554808
+        </Track>
+        <Track Index="5" PreGap="88200">
+          <ISRC>US-000-11-00000</ISRC>
+          <Properties>
+            <Pair key="Artist" value="Newtown Street Justice" />
+          </Properties>
+          42551208
+        </Track>
+        <Track Index="6" PreGap="88200">
+          <ISRC>US-000-11-00000</ISRC>
+          <Properties>
+            <Pair key="Artist" value="Newtown Street Justice" />
+          </Properties>
+          62060460
+        </Track>
+      </CDTracks>
+    </MemoryLocations>
+  </Header>
+  <MovieFile />
+  <AudioHardwareInfo>
+    <SelectedOutputDevice>Core Audio: Built-in Output</SelectedOutputDevice>
+    <SelectedInputDevice>Core Audio: Built-in Microphone</SelectedInputDevice>
+    <PreloadLatency>128</PreloadLatency>
+    <PlaybackLatency>8</PlaybackLatency>
+    <FramesPerBuffer>1024</FramesPerBuffer>
+    <RecordDelay>0</RecordDelay>
+    <DitherToBitdepth>16</DitherToBitdepth>
+    <UseDefaultDither />
+  </AudioHardwareInfo>
+  <TimeMap>
+    <TimecodeType>30ND</TimecodeType>
+    <SampleRate>44100</SampleRate>
+    <WallClockZero>0</WallClockZero>
+    <TimecodeZero>0</TimecodeZero>
+    <DefaultDisplay>Wall Clock</DefaultDisplay>
+    <BarsAndBeatsStart>0</BarsAndBeatsStart>
+    <BaseTimeSignature>4/4</BaseTimeSignature>
+    <BaseTempo>120.0</BaseTempo>
+  </TimeMap>
+  <PlaybackSettings>
+    <SpacebarMode>SpaceBarPause</SpacebarMode>
+    <PrePostRollType>No Pre/Post-Roll</PrePostRollType>
+    <PlaybackPreRollAmount>0</PlaybackPreRollAmount>
+    <PlaybackPreRollType>None</PlaybackPreRollType>
+    <PlaybackPreRollBase>Wall Clock</PlaybackPreRollBase>
+    <PlaybackPostRollAmount>0</PlaybackPostRollAmount>
+    <PlaybackPostRollType>None</PlaybackPostRollType>
+    <PlaybackPostRollBase>Wall Clock</PlaybackPostRollBase>
+    <EndOfSessionPostRollAmount>0</EndOfSessionPostRollAmount>
+    <EndOfSessionPostRollType>None</EndOfSessionPostRollType>
+    <EndOfSessionPostRollBase>Wall Clock</EndOfSessionPostRollBase>
+    <PostRollAmount>0</PostRollAmount>
+    <PostRollType>None</PostRollType>
+    <PostRollBase>Wall Clock</PostRollBase>
+  </PlaybackSettings>
+  <SessionMetaData>
+    <UPC13>0000000000000</UPC13>
+    <DefaultISRC>
+      <ISRC>US-000-11-00000</ISRC>
+    </DefaultISRC>
+    <Properties />
+    <CDTextBlockInfos>
+      <CDTextBlockInfo encoding="ASCII" />
+      <CDTextBlockInfo encoding="ASCII">en</CDTextBlockInfo>
+      <CDTextBlockInfo encoding="ISOLatin1Modified" />
+      <CDTextBlockInfo encoding="ISOLatin1Modified">en</CDTextBlockInfo>
+    </CDTextBlockInfos>
+  </SessionMetaData>
+  <AudioFiles>
+    <AudioFile>
+      <File Name="03_lamar_04.aif">
+        <RelativePath>AudioFiles/03_lamar_04.aif</RelativePath>
+        <AbsolutePath>/Users/Tere/ALBUM____/mastering/test_XOwave/test_XO/AudioFiles/03_lamar_04.aif</AbsolutePath>
+      </File>
+      <Region Name="03_lamar_04" Start="0" End="4260060" Usecount="1" />
+      <Properties />
+    </AudioFile>
+    <AudioFile>
+      <File Name="02_disco_14.aiff">
+        <RelativePath>AudioFiles/02_disco_14.aiff</RelativePath>
+        <AbsolutePath>/Users/Tere/ALBUM____/mastering/test_XOwave/test_XO/AudioFiles/02_disco_14.aiff</AbsolutePath>
+      </File>
+      <Region Name="02_disco_14" Start="0" End="18115584" Usecount="1" />
+      <Properties>
+        <Pair key="Album" value="Draft 05" />
+        <Pair key="Artist" value="Newtown Street Justice" />
+      </Properties>
+    </AudioFile>
+    <AudioFile>
+      <File Name="05_shoebad_06.aiff">
+        <RelativePath>AudioFiles/05_shoebad_06.aiff</RelativePath>
+        <AbsolutePath>/Users/Tere/ALBUM____/mastering/test_XOwave/test_XO/AudioFiles/05_shoebad_06.aiff</AbsolutePath>
+      </File>
+      <Region Name="05_shoebad_06" Start="0" End="19377152" Usecount="1" />
+      <Properties>
+        <Pair key="Album" value="Draft 05" />
+        <Pair key="Artist" value="Newtown Street Justice" />
+      </Properties>
+    </AudioFile>
+    <AudioFile>
+      <File Name="04_guittack_8.aif">
+        <RelativePath>AudioFiles/04_guittack_8.aif</RelativePath>
+        <AbsolutePath>/Users/Tere/ALBUM____/mastering/test_XOwave/test_XO/AudioFiles/04_guittack_8.aif</AbsolutePath>
+      </File>
+      <Region Name="04_guittack_8" Start="0" End="8864100" Usecount="1" />
+      <Properties />
+    </AudioFile>
+    <AudioFile>
+      <File Name="01_prologue_12.aif">
+        <RelativePath>AudioFiles/01_prologue_12.aif</RelativePath>
+        <AbsolutePath>/Users/Tere/ALBUM____/mastering/test_XOwave/test_XO/AudioFiles/01_prologue_12.aif</AbsolutePath>
+      </File>
+      <Region Name="01_prologue_12" Start="0" End="10782450" Usecount="1" />
+      <Properties />
+    </AudioFile>
+    <AudioFile>
+      <File Name="06_kribby_8.aiff">
+        <RelativePath>AudioFiles/06_kribby_8.aiff</RelativePath>
+        <AbsolutePath>/Users/Tere/ALBUM____/mastering/test_XOwave/test_XO/AudioFiles/06_kribby_8.aiff</AbsolutePath>
+      </File>
+      <Region Name="06_kribby_8" Start="0" End="16934400" Usecount="1" />
+      <Properties>
+        <Pair key="Track" value="6/18" />
+        <Pair key="Album" value="Draft 05" />
+        <Pair key="Artist" value="Newtown Street Justice" />
+      </Properties>
+    </AudioFile>
+  </AudioFiles>
+  <TrackList>
+    <Track Name="test_XO" Level="0" Channels="2">
+      <SoftenEdits />
+      <SoftenSettings>
+        <InType>Zero Crossing</InType>
+        <InAmount>30</InAmount>
+        <OutType>Fade</OutType>
+        <OutAmount>30</OutAmount>
+      </SoftenSettings>
+      <PlayList>
+        <RegionInstance File="01_prologue_12.aif" Region="01_prologue_12" StartTime="0" />
+        <RegionInstance File="02_disco_14.aiff" Region="02_disco_14" StartTime="10914750" />
+        <RegionInstance File="03_lamar_04.aif" Region="03_lamar_04" StartTime="29162634" />
+        <RegionInstance File="04_guittack_8.aif" Region="04_guittack_8" StartTime="33554994" />
+        <RegionInstance File="05_shoebad_06.aiff" Region="05_shoebad_06" StartTime="42551394" />
+        <RegionInstance File="06_kribby_8.aiff" Region="06_kribby_8" StartTime="62060846" />
+      </PlayList>
+      <EffectsList>
+        <Effect AEName="volume/pan" GUIName="xowave.plugins.VolumePan">
+          <Parameter Index="0" Value="0.0" />
+          <Parameter Index="1" Value="0.0" />
+          <Parameter Index="2" Value="0.0" />
+        </Effect>
+        <Effect AEName="meter" GUIName="xowave.plugins.Meter">
+          <Parameter Index="0" Value="100.0" />
+          <Parameter Index="1" Value="1.0" />
+        </Effect>
+        <Effect AEName="output" GUIName="Output">
+          <Parameter Index="0" Value="-1.0" />
+          <Parameter Index="1" Value="1.0" />
+          <Parameter Index="2" Value="0.0" />
+          <Parameter Index="3" Value="0.0" />
+          <Parameter Index="4" Value="1.0" />
+        </Effect>
+      </EffectsList>
+    </Track>
+  </TrackList>
+  <Windows>
+    <EditWindow>
+      <ShowStart>0</ShowStart>
+      <ShowEnd>78995246</ShowEnd>
+      <TrackViews>
+        <TrackDisplayParameters>
+          <Height>70</Height>
+          <FullView />
+          <Magnification>1.0</Magnification>
+          <AutomationEffectNumber>-1</AutomationEffectNumber>
+        </TrackDisplayParameters>
+      </TrackViews>
+      <TimeBase>wallclock</TimeBase>
+      <Selection />
+      <Tool>Smart</Tool>
+      <EditMode>
+        <RippleMode>No Ripple</RippleMode>
+        <QueryMode>No Query</QueryMode>
+        <RippleMemoryLocations>
+          false
+          <CDTrack>true</CDTrack>
+          <Selection>true</Selection>
+          <Marker>true</Marker>
+          <PlaybackBounds>true</PlaybackBounds>
+          <View>true</View>
+        </RippleMemoryLocations>
+      </EditMode>
+      <Quantization>
+        <Mode>Wall Clock</Mode>
+        <Level Mode="Samples">1</Level>
+        <Level Mode="Bars and Beats">1</Level>
+        <Level Mode="Time Code">1</Level>
+        <Level Mode="Wall Clock">1</Level>
+      </Quantization>
+      <Rectangle>
+        <X>0</X>
+        <Y>22</Y>
+        <Width>880</Width>
+        <Height>862</Height>
+      </Rectangle>
+      <ChannelStripDividerLocation>-1</ChannelStripDividerLocation>
+      <RegionBinDividerLocation>-1</RegionBinDividerLocation>
+      <SnapToGrid />
+      <FollowPlayback />
+      <PlaybackMaster />
+      <RulerType>CD Tracks</RulerType>
+      <ShowChannelStrips>true</ShowChannelStrips>
+      <ShowExpandedEffects>
+        <Voice VoiceName="test_XO">
+          <Effect EffectGuiName="xowave.plugins.VolumePan" EffectAEName="volume/pan">false</Effect>
+          <Effect EffectGuiName="xowave.plugins.Meter" EffectAEName="meter">false</Effect>
+          <Effect EffectGuiName="Output" EffectAEName="output">unset</Effect>
+        </Voice>
+      </ShowExpandedEffects>
+      <ShowHelp>true</ShowHelp>
+      <MultiTrackDisplay>
+        <DisplayMultiple />
+      </MultiTrackDisplay>
+    </EditWindow>
+  </Windows>
+  <TransportWindow>
+    <Rectangle>
+      <X>0</X>
+      <Y>22</Y>
+      <Width>398</Width>
+      <Height>164</Height>
+    </Rectangle>
+    <TimeBase>wallclock</TimeBase>
+  </TransportWindow>
+</XO_Wave_Session>
+
